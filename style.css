@@ -1,0 +1,17 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 50em;
+    color: #333;
+    margin: auto;
+}
+
+a {
+    display: block; /*every link will be in its own line*/
+    color: #333;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+img {
+    height: 200px;
+}
