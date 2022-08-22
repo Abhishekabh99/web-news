@@ -1,7 +1,7 @@
 # web-news
 
 
-basic website where i am fetching data from thr new york times news api and filtering it for news related to metaverse 
+basic website where i am fetching data from the new york times news api and filtering it for news related to metaverse 
 
 What i am doing 
 
