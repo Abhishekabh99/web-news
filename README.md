@@ -17,7 +17,6 @@ tech stack used -> HTML,CSS,JS
 
 project type -> frontend project with api calling (calling news api from the new york time)
 
-nodemodules is very space occupying folder it should not be added to git thats why
 
 any contributions are welcomed!
 
