@@ -8,7 +8,7 @@ What i am doing
 1.Fetching data from news api 
 
 
-2.filtering it for news reolated to only metaverse 
+2.filtering it for news related to only metaverse 
 
 
 3.showing it on web page 
