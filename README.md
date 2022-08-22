@@ -6,7 +6,11 @@ basic website where i am fetching data from the new york times news api and filt
 What i am doing 
 
 1.Fetching data from news api 
+
+
 2.filtering it for news reolated to only metaverse 
+
+
 3.showing it on web page 
 
 tech stack used -> HTML,CSS,JS 
